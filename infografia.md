@@ -1,6 +1,6 @@
 Análisis infográfico: PRÁCTICA 1- COMENTARIO VISUALIZACIÓN DE DATOS
 
- <img width="385" alt="Captura 1" src="cap1.png">
+ <img width="385" alt="Captura 1" src="imagenes/cap1.png">
 
  
 
