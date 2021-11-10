@@ -2,8 +2,9 @@ Análisis infográfico: PRÁCTICA 1- COMENTARIO VISUALIZACIÓN DE DATOS
 
 
 [INFOGRAFÍA 1](https://consaludmental.org/wp-content/uploads/2018/09/INFOGRAFÍA-SUICIDIO.png)
+ <img width="385" alt="Captura de pantalla 2021-11-10 a las 19 30 31" src="https://user-images.githubusercontent.com/90442217/141172394-147704bb-94e0-440d-b0ec-189bfb6ef83a.png">
 
- [https://consaludmental.org/wp-content/uploads/2018/09/INFOGRAFÍA-SUICIDIO.png]
+ 
 
 Esta infografía contiene de manera muy equilibrada el peso de las imágenes y el texto. El tema no es sencillo de reflejar, ya que el sucidio es un aspecto muy complicado de compartir, a pesar de que el documento lo hace de manera muy completa.
 Utiliza emoticonos muy representativos que facilitan el entendimiento del texto y lo hace más ameno e intuitivo. Está separado por distintas secciones puestas de manera ordenada aunque demasiado llena podríaos decir, es una infografía llena de contenido. 
