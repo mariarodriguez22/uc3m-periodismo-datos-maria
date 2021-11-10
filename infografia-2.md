@@ -4,7 +4,7 @@
 21 de septiembre 2021. 
 
 @elmundograficos
-enlace foto: https://twitter.com/elmundograficos/status/1440304482198319113/photo/1
+
 <img width="385" alt="Captura2" src="cap2.png">
 
 -Tipo de contenido
