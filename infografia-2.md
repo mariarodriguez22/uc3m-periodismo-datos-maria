@@ -1,6 +1,7 @@
 ### INFOGRAFÍA 2 PERIODISMO DE DATOS
 
-## INFOGRAFÍA: La erupción volcánica en La Palma, tipos de volcanes y otras erupciones. 21 de septiembre 2021. 
+## INFOGRAFÍA: La erupción volcánica en La Palma, tipos de volcanes y otras erupciones. 
+21 de septiembre 2021. 
 
 @elmundograficos
 enlace foto: https://twitter.com/elmundograficos/status/1440304482198319113/photo/1
