@@ -5,7 +5,7 @@
 
 @elmundograficos
 
-<img width="385" alt="Captura2" src="cap2.png">
+<img width="385" alt="Captura2" src="imagenes/cap2.png">
 
 -Tipo de contenido
 
