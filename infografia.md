@@ -1,4 +1,4 @@
-Análisis infográfico: COMENTARIO VISUALIZACIÓN DE DATOS
+Análisis infográfico: PRÁCTICA 1- COMENTARIO VISUALIZACIÓN DE DATOS
 
 
 [INFOGRAFÍA 1](https://consaludmental.org/wp-content/uploads/2018/09/INFOGRAFÍA-SUICIDIO.png)
