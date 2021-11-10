@@ -5,8 +5,7 @@
 
 @elmundograficos
 enlace foto: https://twitter.com/elmundograficos/status/1440304482198319113/photo/1
-https://www.elmundo.es/ciencia-y-salud/ciencia/2021/09/20/6148a454fc6c83a37c8b45e5.html
-
+<img width="385" alt="Captura2" src="cap2.png">
 
 -Tipo de contenido
 

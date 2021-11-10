@@ -2,7 +2,7 @@ Análisis infográfico: PRÁCTICA 1- COMENTARIO VISUALIZACIÓN DE DATOS
 
 
 [INFOGRAFÍA 1](https://consaludmental.org/wp-content/uploads/2018/09/INFOGRAFÍA-SUICIDIO.png)
- <img width="385" alt="Captura de pantalla 2021-11-10 a las 19 30 31" src="https://user-images.githubusercontent.com/90442217/141172394-147704bb-94e0-440d-b0ec-189bfb6ef83a.png">
+ <img width="385" alt="Captura 1" src="cap1.png">
 
  
 
