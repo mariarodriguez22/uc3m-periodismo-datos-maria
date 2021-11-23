@@ -7,13 +7,13 @@
 
 <img width="385" alt="Captura2" src="imagenes/cap2.png">
 
--Tipo de contenido
+- Tipo de contenido
 
 La infografía escogida muestra la evolución de la erupción de volcán en La Palma desde su inicio el 19 de septiembre hasta el 21 de septiembre del mismo mes (fecha de publicación en el medio).
 Esta cobertura informativa de 2 días recoge de manera simplificada y clara el recorrido de la lava, los daños ocasionados. 
 Es muy interesante porque contextualiza la sobreinformación que hubo desde el primer momento, esta infografía pretende comprender los antecedentes del estallido, las razones de la erupción y el recorrido de la lava en esos dos días de cobertura.
 
--Estructura de la información
+- Estructura de la información
 
 La información infografía esta presente en forma de imágenes y texto. Las imágenes prevalecen sobre el texto y crean un contenido más simplificado y atractivo visualmente.
 Podemos distinguir la estructura interna de la información por las diferentes recreaciones fotográficas y subtítulo que acompaña a cada una de ellas.
@@ -31,13 +31,13 @@ El apartado de tipos de erupciones volcánicas presenta los 5 tipos de erupcione
 Son distintas partes diferenciadas que guardan un claro eje común y una relación muy correcta debido al tamaño de las imágenes y texto, la cantidad de los mismos y el color utilizado.
 
 
--Colores utilizados
+- Colores utilizados
 
 Los colores son sencillos y claves para la comprensión de la infografía. El blanco como fondo que ayuda a la lectura, el negro para el texto y la negrita para los destacados.
 Los colores principales de las imágenes y símbolos son el rojo referido a la lava, el fuego, la alarma; y el azul relativo al color del mar. La tierra y el volcán se representa mediante el color gris. Es una muy buena elección de colores que no destaca en exceso ni se vuelve demasiado colorida, teniendo esta intención informativa que ayuda al lector a entender lo expuesto de manera sencilla. 
 
 
--Fuente
+- Fuente
 
 Otro aspecto a destacar es la utilización de las fuentes que dota a la infografía de un carácter más crítico. Es una infografía publicada en el periódico español de El Mundo, y las fuentes que indica la misma son: IGN, DGT, Google Earth, Instituto Geológico y Minero y El Mundo.
 
