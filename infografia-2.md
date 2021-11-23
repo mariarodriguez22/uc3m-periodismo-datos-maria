@@ -1,4 +1,4 @@
-### INFOGRAFÍA 2 PERIODISMO DE DATOS
+# INFOGRAFÍA 2 PERIODISMO DE DATOS
 
 ## INFOGRAFÍA: La erupción volcánica en La Palma, tipos de volcanes y otras erupciones. 
 21 de septiembre 2021. 
@@ -42,7 +42,6 @@ Los colores principales de las imágenes y símbolos son el rojo referido a la l
 Otro aspecto a destacar es la utilización de las fuentes que dota a la infografía de un carácter más crítico. Es una infografía publicada en el periódico español de El Mundo, y las fuentes que indica la misma son: IGN, DGT, Google Earth, Instituto Geológico y Minero y El Mundo.
 
 
--Justificación de la infografía escogida
 
 La erupción de La Palma es un asunto muy presente y actual que ha repercutido en numerosas vidas y difusión de los medios de comunicación. Es una infografía que tiene esa intención explicativa y de contexto ante la sobreinformación que hubo del suceso.
 Así pues, me parece una labor periodística totalmente lograda que consigue su objetivo: presentar una información compleja de manera sencilla y simplificada.
