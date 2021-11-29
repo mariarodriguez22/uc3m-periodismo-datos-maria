@@ -19,7 +19,7 @@ He pretendido reflejar como una misma base de datos puede representarse en disti
 
 &rarr; Los hashtags y las tendencias más usados para felicitar la Pascua en 2020.
 
-OpenRefine
+-OpenRefine
 Es necesario explicar que para realizar los gráficos el proceso utilizado en OpenRefine fue el mismo por lo que este paso es similar para las dos imágenes. La diferencia radica en la herramienta Datawrapper que explicaré más adelante, pero el procedimiento para selección y filtrar los datos inicial es general.
 
 1. El paso previo fue realizar la acción “git clone” en la terminal para descargar una copia del repositorio uc3m-periodismo-datos en Github, en la cuenta de Pontedatos
@@ -39,7 +39,7 @@ Es necesario explicar que para realizar los gráficos el proceso utilizado en Op
 15. Exporté el archivo en csv. 
 
 
-Datawrapper
+-Datawrapper
 
 16. Desde la primera pestaña de la herramienta Datawrapper “upload data” subí el archivo generado en OpenRefine con mi base de datos. La información representada eran dos columnas relativas a los hashtags y tendencias y la cantidad de los tweets generados con dichos nombres.
 17. En la pestaña “check & describe” acepté la opción de que “hashtags y tendencias” fuera una etiqueta, para reflejar que los nombres que aparecerían se referían a esta categoría.
