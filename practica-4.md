@@ -15,8 +15,6 @@ El gráfico circular es más dinámico y se observa la comparación entre las ci
 He pretendido reflejar como una misma base de datos puede representarse en distintos gráficos y percibir información diferente.
 
 
-
-
 ## Procedimiento
 
 &rarr; Los hashtags y las tendencias más usados para felicitar la Pascua en 2020.
@@ -47,11 +45,15 @@ Datawrapper
 17. En la pestaña “check & describe” acepté la opción de que “hashtags y tendencias” fuera una etiqueta, para reflejar que los nombres que aparecerían se referían a esta categoría.
 18. La pestaña de visualización fue la principal para generar el diseño y tipo de gráfico, es donde cambiaron los pasos según el tipo de gráfico utilizado.
 
+![Gráfico circular tendencias y hashtags Pascua](practica-4-graficos/grafico circular.png)
+
 18.1. Gráfico circular
 18.1.1 Elegí el gráfico circular ya que la información se adecuaba muy bien y aparecían los “hashtags y tendencias” con cifras de manera muy comprensible.
 18.1.2 Posteriormente modifiqué los colores a mi gusto, el formato de número (1.000 con una K para facilitar la visualización) y el radio del gráfico. Opté por la opción de visualización de datos tanto en las categorías como el total en el centro de la composición.
 18.1.3 Rellené la información del gráfico: título, leyenda, fuente…
 18.1.4. Exporté el archivo en png con fondo blanco.
+
+![Gráfico de barras tendencias y hashtags Pascua](practica-4-graficos/grafico barras.png)
 
 18.2 Gráfico de barras (bullet bars)
 18.2.1 Elegí este gráfico para utilizar otro formato con la misma base de datos. En este se observan las categorías sin datos aparentes, por lo que era interesante saber que eran una opción. Dentro de las opciones de barras el “bullet bars” era el que mejor se entendía y mejor quedaba.
