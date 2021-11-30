@@ -57,7 +57,11 @@ Es necesario explicar que para realizar los gráficos el proceso utilizado en Op
 ![Gráfico de barras tendencias y hashtags Pascua](/practica-4-imagenes/graficobarras.png)
 
 18.2 Gráfico de barras (bullet bars)
+
 18.2.1 Elegí este gráfico para utilizar otro formato con la misma base de datos. En este se observan las categorías sin datos aparentes, por lo que era interesante saber que eran una opción. Dentro de las opciones de barras el “bullet bars” era el que mejor se entendía y mejor quedaba.
+
 18.2.2 Modifiqué el color, morado referido al color de Pascua y borre la K para conocer otras posibilidades.
+
 18.1.3 Rellené la información del gráfico: título, leyenda, fuente…
+
 18.1.4. Exporté el archivo en png con fondo blanco.
