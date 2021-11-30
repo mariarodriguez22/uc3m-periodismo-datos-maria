@@ -47,6 +47,7 @@ Es necesario explicar que para realizar los gráficos el proceso utilizado en Op
 18. La pestaña de visualización fue la principal para generar el diseño y tipo de gráfico, es donde cambiaron los pasos según el tipo de gráfico utilizado.
 
 ![Gráfico circular tendencias y hashtags Pascua](/practica-4-imagenes/graficocircular.png)
+Gráfico circular sobre las tendencias y hashtags más utilizados para felicitar la Pascua en 2020
 
 18.1. Gráfico circular
 
@@ -59,6 +60,7 @@ Es necesario explicar que para realizar los gráficos el proceso utilizado en Op
 18.1.4. Exporté el archivo en png con fondo blanco.
 
 ![Gráfico de barras tendencias y hashtags Pascua](/practica-4-imagenes/graficobarras.png)
+Gráfico de barras sobre las tendencias y hashtags más utilizados para felicitar la Pascua en 2020
 
 18.2 Gráfico de barras (bullet bars)
 
