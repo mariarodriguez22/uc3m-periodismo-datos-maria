@@ -49,9 +49,13 @@ Es necesario explicar que para realizar los gráficos el proceso utilizado en Op
 ![Gráfico circular tendencias y hashtags Pascua](/practica-4-imagenes/graficocircular.png)
 
 18.1. Gráfico circular
+
 18.1.1 Elegí el gráfico circular ya que la información se adecuaba muy bien y aparecían los “hashtags y tendencias” con cifras de manera muy comprensible.
+
 18.1.2 Posteriormente modifiqué los colores a mi gusto, el formato de número (1.000 con una K para facilitar la visualización) y el radio del gráfico. Opté por la opción de visualización de datos tanto en las categorías como el total en el centro de la composición.
+
 18.1.3 Rellené la información del gráfico: título, leyenda, fuente…
+
 18.1.4. Exporté el archivo en png con fondo blanco.
 
 ![Gráfico de barras tendencias y hashtags Pascua](/practica-4-imagenes/graficobarras.png)
