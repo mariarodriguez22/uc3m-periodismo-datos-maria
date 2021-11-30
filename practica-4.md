@@ -49,6 +49,8 @@ Es necesario explicar que para realizar los gráficos el proceso utilizado en Op
 ![Gráfico circular tendencias y hashtags Pascua](/practica-4-imagenes/graficocircular.png)
 Gráfico circular sobre las tendencias y hashtags más utilizados para felicitar la Pascua en 2020
 
+
+
 18.1. Gráfico circular
 
 18.1.1 Elegí el gráfico circular ya que la información se adecuaba muy bien y aparecían los “hashtags y tendencias” con cifras de manera muy comprensible.
@@ -61,6 +63,8 @@ Gráfico circular sobre las tendencias y hashtags más utilizados para felicitar
 
 ![Gráfico de barras tendencias y hashtags Pascua](/practica-4-imagenes/graficobarras.png)
 Gráfico de barras sobre las tendencias y hashtags más utilizados para felicitar la Pascua en 2020
+
+
 
 18.2 Gráfico de barras (bullet bars)
 
