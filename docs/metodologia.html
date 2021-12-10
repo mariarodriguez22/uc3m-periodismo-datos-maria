@@ -1,0 +1,103 @@
+f<!doctype html>
+<html lang="es" class="h-100">
+<!-- Cambio el idioma de "en" a "es" -->
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="María Rodríguez Lafalla">
+    <meta name="generator" content="nano">
+    <title>Trabajo final de  Periodismo de Datos</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/sticky-footer-navbar/">
+
+    
+
+    <!-- Bootstrap core CSS, la hoja de estilo básica de bootstrap, la he puesto en la carpeta css -->
+<link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="css/sticky-footer-navbar.css" rel="stylesheet">
+  </head>
+  <body class="d-flex flex-column h-100">
+    
+<header>
+  <!-- Fixed navbar -->
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">María Rodríguez Lafalla</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav me-auto mb-2 mb-md-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="index.html">Inicio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="ejercicio1.html">Ejercicio 1</a>
+          </li>
+              <li class="nav-item">
+                      <a class="nav-link" href="ejercicio2.html">Ejercicio 2</a>          </li>
+              <li class="nav-item">
+             <a class="nav-link" href="ejercicio4.html">Ejercicio 4</a>
+           </li>
+              <li class="nav-item">
+              <a class="nav-link" href="metodologia.html">Metodología</a>
+              </li>
+
+        </ul>
+      
+      </div>
+    </div>
+  </nav>
+</header>
+
+<!-- Begin page content -->
+<main class="flex-shrink-0">
+  <div class="container">
+<h2>Memoria final: Trabajo creación página web</h2>
+<p>Pasos a seguir para realizar la práctica final sobre creación de una página web</p>
+<p>El primer paso fue descargar desde la ventana de la terminal la herramienta “Pandoc”, y de esta manera poder modificar el formato de texto del Markdown al HTML (propio de las páginas web). El siguiente paso fue descargar la plantilla de Bootstrap “sticky-footer-header”, clave para el diseño y creación de la posterior página web. Una vez descargado hubo que descomprimir los archivos necesarios desde la terminal, los archivos se extrajeron con “unzip” y los copié con “cp”. Cree una serie de carpetas (comando mkdir para su creación), “ccs” y una “js” (al tener más de un archivo en un determinado formato), para contener los distintos documentos (mv para mover los documentos) que cumplían estos formatos. Otras de las carpetas que cree fue la denominada “docs”, copié los contenidos desde la terminal y mediante el comando “unizip” los trasladé a mi repositorio de GitHub.</p>
+<p>El siguiente paso fue revisar las prácticas realizadas durante el cuatrimestre y cambiar cualquier tipo de error, y posteriormente copiar los documentos y trasladarlos a la carpeta “docs” cambiando el formato. Los documentos los convertí a través de Pandoc al formato HTML y los añadí al archivo del índex, pero no fue bien. Tenía un problema continuo, en la web aparecía el texto modificado y no leía los acentos, probé de distintas maneras, entre ellas el Try Pandoc por si era problema de mi terminal, pero no fue así. Cree durante todo un día archivos de md a HTML sin sentido porque todos se veían mal, mis compañeros tampoco sabían como ayudarme, hasta que… Al día siguiente y tras consultarlo comprobé abrirlo desde otro buscador que no fuera Safari, lo hice desde Mozilla Firefox, y efectivamente el problema de lectura de la web solo aparecía en el buscador de Apple (moraleja: no lo utilizaré más). Otro de los problemas que me surgió que al abrir la web no me aparecían las imágenes dentro de los archivos, la solución fue comprobar la ruta del href, donde vi que la ruta era incorrecta, por lo que cambié el texto y se vio. Son dos claros ejemplos de que errores tan pequeños pueden modificar todo el trabajo, y que con paciencia (que a veces se pierde) se logra. Desde mi perfil de Github, en ajustes y páginas pude ver la página web que cree y comenzaba a coger forma, cuando realizaba un cambio miraba como se visualizaba en la web para comprobar si funcionaba.</p>
+<p>Posteriormente realicé el ordenamiento con los documentos de “sticky-footer-header”. El primero fue el “header” de la web y la parte final el “footer”, llamados así por convenio. En ese momento modifiqué algunos elementos del header que no me interesaban o que quería cambiar como el nombre, descripción de mis prácticas, títulos, índice, idioma (“es”), para hacerlo más original y atractiva.</p>
+Para formatear el texto el negrita en algunos de los títulos he utilizado el tag &ltb&gt en los textos que quería destacar. Para centrar las imágenes utilicé un parámetros en los tags img llamado hspace que hace que la imagen deje un espacio a la izquierda. Con los parámetros “width” y “height” he ajustado los tamaños de las imágenes. ajustar títulos
+&lth1&gt o &lth2&gt
+<p>e intentar crear un sentido a todo la página web, como que se asemejen los títulos de cada trabajo ajustar imagen, ponerla en medio y cambiar tamaño. Además, para poder navegar de forma interactiva entre las distintas prácticas y que todas las páginas tengan el mismo formato he utilizado la plantilla del index.html que nos proporcionaste para todos los HTML introduciendo el contenido generado por Pandoc dentro del body de la plantilla.</p>
+<p>En la parte destinada a Fixed navbar, añadí “index.html” en la url del href y en la parte de texto Puse mi nombre para que al pulsar allí redirija a la pagina principal. Realicé el mismo proceso con footer.html utilizando un enlace con href para redirigir a mi página de github. Además, para darle un toque divertido he añadido un emoticono utilizando los caracteres especiales de HTML, esto lo encontre buscando por internet y en la página <a href="https://www.saberespractico.com/web/emoticonos-en-html/">https://www.saberespractico.com/web/emoticonos-en-html/</a> explicaban cómo hacerlo y utilicé uno de los emoticonos que aparecian en la página. Guardé lo modificado con control O y salí de nano con control X. Por último subí los documentos depositados en el repositorio a lo largo del curso y la página web estaba finalizada.</p>
+  </div>
+</main>
+
+<footer class="footer mt-auto py-3 bg-light">
+  <div class="container">
+    <span class="text-muted">Picha aquí para conocer mi <a href=”https://github.com/mariarodriguez22/uc3m-periodismo-datos-maria.git”>Github&#129299</a></span>
+  </div>
+</footer>
+
+
+    <script src="js/bootstrap.bundle.min.js"></script>
+
+      
+  </body>
+</html>
+
+
+
+
