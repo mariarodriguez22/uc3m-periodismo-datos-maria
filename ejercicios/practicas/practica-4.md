@@ -3,6 +3,8 @@
 ## Justificación de la visualización de datos
 
 La elección de datos analizados corresponde con el documento facilitado por el profesor (feliz.csv). La base de datos utilizada en las sesiones presenta información relativa al uso de hashtags y tendencias relacionados con la palabra feliz durante el 2020. Analizar estos datos no ha sido sencillo pero he preferido utilizar una gráfica relacionada con dichos datos para aprender a manejar la utilización de ambas herramientas: OpenRefine y Datawrapper. 
+La Pascua es la fiesta central del cristianismo, en la que se conmemora la resurrección de Jesucristo al tercer día después de haber sido crucificado. La Pascua marca el final de la Semana Santa, en la que se conmemora la muerte y resurrección de Jesús.
+Durante este día se celebran en distintos lugares del mundo procesiones religiosas, así como celebraciones litúrgicas. Las costumbres del Domingo de Resurrección varían en todo el mundo cristiano, pero la decoración de los huevos de Pascua es algo común en muchos países del mundo occidental.
 
 Me limité a un espacio de tiempo acotado que fuera interesante y curioso, tras distintos intentos de manipulación de datos utilicé los hashtags y tendencias para felicitar la Pascua en el pasado año. Es una manera original de conocer las diferentes formas de felicitar esta festividad que se hicieron el pasado 12 de abril, domingo del 2020.
 En esta primera tarea de selección y filtración se utilizado la herramientas de OpenRefine. 
