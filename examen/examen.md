@@ -102,12 +102,12 @@ Para ver los dialectos posibles simplemente tienes que escribir en la terminal:
 cat /etc/shells. Te devuelve siete resultados, aparecen: /bin/bash, /bin/csh, /bin/dash, 
 /bin/ksh, /bin/sh, /bin/tcsh, /bin/zsh.
 
-53-Pon un par de ejemplos de Google Dorks u "operadores de búsqueda” 
+53. Pon un par de ejemplos de Google Dorks u "operadores de búsqueda” 
 Los operadores de búsqueda tienen la función de facilitar la búsqueda de ciertas palabras o elementos a través de la red. Son varios los operadores que ayudan en esta tarea. Dos de ellos son “or” y “and”.
 - “Or” también puede utilizarse (|): busca X o Y, un elemento u otro. Esto quiere decir que aparecerán resultados relacionados con X ó Y, o ambos.
 - “And” busca X y Y. Apareciendo resultados relacionados con esos dos elementos. Es muy útil cuando se combina con otros operadores. 
 
-71.Para qué usas cd y cómo.
+71. Para qué usas cd y cómo.
 El comando cd sirve para abrir los archivos, simplemente se escribe cd y el nombre del archivo (examen.md, por ejemplo). Su función es la de abrir y desplazarse por los distintos archivos y carpetas del ordenador desde la terminal.
 
 72. Para qué usas cp y cómo.
